@@ -1,5 +1,6 @@
 # StylePuzzle-Openframework
 Openframework implementation of StylePuzzle for stylization with user interaction
+
 Course project for Course CS4187 Computer Vision for Interactivity
 
 ## Motivation
