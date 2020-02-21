@@ -16,11 +16,11 @@ Create an openframework project, replace src with .cpp files in this repository.
 Before start, adjust file and path settings in the ofApp.h (including CUDA, path to style-transfer models&codes, input image name, background image name, style reference models, threads)
 
 ## Basic Operation of StylePuzzle
-![](flowchart.png)
+![](flowchart.png)  
 Detailed instructions are available in the interface.
 
 ## Results
-Demo video: https://drive.google.com/open?id=1MIwDznpYj8tPeGjwzdXo98LMp4dGthOj
+Demo video: https://drive.google.com/open?id=1MIwDznpYj8tPeGjwzdXo98LMp4dGthOj  
 Sample images:
 ![](compare1.png)
 ![](compare2.png)
@@ -28,6 +28,6 @@ Sample images:
 ![](result2.png)
 
 ## Future Work
-![](limitation.png)
+![](limitation.png)  
  Smooth the boundaries between different styles.
 
